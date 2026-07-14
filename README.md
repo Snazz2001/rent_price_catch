@@ -1,3 +1,7 @@
+# The goal
+
+It is used to extract the rent price online for one property so that we can adjust our price
+
 # rent_price_catch
 
 - pip install playwright --break-system-packages
